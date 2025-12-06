@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Bashar 👋
 
-<!--
-**basharbd/basharbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc student in **Human-Centered Artificial Intelligence** at **DTU**.
 
-Here are some ideas to get you started:
+My main interests are:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 **Deep learning & representation learning** (PyTorch, CNNs, RNNs, XAI)
+- 🌐 **Social graphs & networks** (NetworkX, community detection, text + graphs)
+- 👁️ **Computer vision & visual computing**
+- 📊 **Data analysis & scientific Python**
+
+On this GitHub you’ll mostly find:
+
+- 🎓 University projects (Deep Learning, Social Graphs, Computer Graphics, Data Science)
+- 🧪 Small research-style experiments (class separation metrics, sentiment + networks, etc.)
+- 📚 Reproducible notebooks with a focus on **clear structure and good comments**
+
+I'm especially interested in projects where we can combine:
+
+> **code + visualization + storytelling about data**
+
+If you want to collaborate or just discuss ideas, feel free to reach out at:  
+📧 **basharbdewi86@gmail.com**
